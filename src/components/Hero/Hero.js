@@ -67,7 +67,7 @@ const Hero = ({ scrollToSection }) => {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <span className="title-accent">Pix</span>
-              Corporations
+              Software
           </motion.h1>
           
           <motion.p
