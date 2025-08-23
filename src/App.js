@@ -35,9 +35,11 @@ function App() {
           <Services />
         </section>
 
+
+        {/*
         <section id="orders">
           <OrderTable />
-        </section>
+        </section>*/}
 
         <section id="contact">
           <Contact />
